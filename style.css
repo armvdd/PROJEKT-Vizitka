@@ -23,6 +23,7 @@ body {
   background-color: #b2bec3;
 }
 .vizitka {
+  position: relative;
   background-color: #ffff;
   width: 550px;
   margin: 150px auto;
@@ -37,8 +38,8 @@ body {
   border-radius: 50%;
   border: 3px solid #ffff;
   position: absolute;
-  top: 75px;
-  right: 425px;
+  top: -70px;
+  right: -70px;
 }
 h1 {
   font-family: Nunito;
